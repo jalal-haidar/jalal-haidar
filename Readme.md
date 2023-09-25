@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jalal Khan</h1>
+<h1 align="center">Hi 👋, I'm Jalal Khan.</h1>
 <h3 align="center">A passionate Software Engineer from Islamabad, Pakistan..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jalal-khan&label=Profile%20views&color=0e75b6&style=flat" alt="jalal-khan" /> </p>
