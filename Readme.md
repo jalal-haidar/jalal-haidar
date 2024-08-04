@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jalal-khan&label=Profile%20views&color=0e75b6&style=flat" alt="jalal-khan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalal-khan" alt="jalal-khan" /></a> </p>
-
+https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jalal-Khan)](https://github.com/ryo-ma/github-profile-trophy)
 
 https://github-profile-trophy.vercel.app/?username=ryo-ma&title=-Stars,-Followers
