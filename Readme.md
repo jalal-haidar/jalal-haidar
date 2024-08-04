@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Repos](https://github.com/Jalal-Khan/repositories)
 
-- 📝 I write articles on [https://medium.com/@jalalusafxai](https://medium.com/@jalalusafxai)
+- 📝 I write articles on [Medium](https://medium.com/@jalalusafxai)
 
 - 💬 Ask me about **Typescipt, Node**
 
