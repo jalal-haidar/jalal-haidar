@@ -3,12 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jalal-khan&label=Profile%20views&color=0e75b6&style=flat" alt="jalal-khan" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalal-khan&row=2&column=3" alt="jalal-khan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalal-khan&row=2&column=3&no-bg=true" alt="jalal-khan" /></a> </p>
 
 
 
-#<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalal-khan&row=2&column=3" #alt="jalal-khan" /></a> </p>
-//<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalal-khan&row=2&column=3" //alt="jalal-khan" /></a> </p>
 
 https://github-profile-trophy.vercel.app/?username=Jalal-Khan&row=2&column=3
 
