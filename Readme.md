@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalal-khan" alt="jalal-khan" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on [Village Connect](https://github.com/Jalal-Khan/VillageConnect)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jalal-Khan](https://github.com/Jalal-Khan)
 
-- 📝 I regularly write articles on [https://medium.com/@jalalusafxai](https://medium.com/@jalalusafxai)
+- 📝 I write articles on [https://medium.com/@jalalusafxai](https://medium.com/@jalalusafxai)
 
-- 💬 Ask me about **.Net, Angular**
+- 💬 Ask me about **Typescipt, Node**
 
 - 📫 How to reach me **jalalusafxai@gmail.com**
 
