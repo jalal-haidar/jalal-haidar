@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalal-khan" alt="jalal-khan" /></a> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jalal-Khan)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=Jalal-Khan&title=-Stars,-Followers
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&title=-Stars,-Followers
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on [Village Connect](https://github.com/Jalal-Khan/VillageConnect)
