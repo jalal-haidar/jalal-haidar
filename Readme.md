@@ -5,12 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalal-khan&theme=juicyfresh&row=2&column=3&column=3&margin-w=15&margin-h=15&no-bg=true" alt="jalal-khan" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalal-khan&row=2&column=3" alt="jalal-khan" /></a> </p>
 
-
-https://github-profile-trophy.vercel.app/?username=Jalal-Khan&row=2&column=3
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=-Stars,-Followers
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on [Village Connect](https://github.com/Jalal-Khan/VillageConnect)
