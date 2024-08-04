@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Village Connect](https://github.com/Jalal-Khan/VillageConnect)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jalal-Khan](https://github.com/Jalal-Khan)
+- 👨‍💻 All of my projects are available at [Repos](https://github.com/Jalal-Khan/repositories)
 
 - 📝 I write articles on [https://medium.com/@jalalusafxai](https://medium.com/@jalalusafxai)
 
