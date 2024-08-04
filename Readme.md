@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalal-khan&row=2&column=3&no-bg=true" alt="jalal-khan" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalal-khan&no-bg=true" alt="jalal-khan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalal-khan&row=2&column=3" alt="jalal-khan" /></a> </p>
 
 
 https://github-profile-trophy.vercel.app/?username=Jalal-Khan&row=2&column=3
