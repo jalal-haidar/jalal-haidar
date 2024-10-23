@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jalal Khan.</h1>
+<h1 align="center">Hi 👋, I'm Jalal Haidar.</h1>
 <h3 align="center">A passionate Software Engineer from Islamabad, Pakistan..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jalal-khan&label=Profile%20views&color=0e75b6&style=flat" alt="jalal-khan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jalal-haidar&label=Profile%20views&color=0e75b6&style=flat" alt="jalal-haidar" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalal-khan&theme=juicyfresh&row=2&column=3&column=3&margin-w=15&margin-h=15&no-bg=true" alt="jalal-khan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jalal-haidar&theme=juicyfresh&row=2&column=3&column=3&margin-w=15&margin-h=15&no-bg=true" alt="jalal-haidar" /></a> </p>
 
 
 - 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on [Village Connect](https://github.com/Jalal-Khan/VillageConnect)
 
 - 👨‍💻 All of my projects are available at [Repos](https://github.com/Jalal-Khan/repositories)
 
@@ -16,7 +14,7 @@
 
 - 💬 Ask me about **Typescipt, Node**
 
-- 📫 How to reach me **jalalusafxai@gmail.com**
+- 📫 How to reach me **jalal99.dev@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
