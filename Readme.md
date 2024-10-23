@@ -34,10 +34,10 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/jalalkhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jalalkhan" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/jalalkhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jalal-haidar" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalal-khan&show_icons=true&locale=en&layout=compact" alt="jalal-khan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalal-haidar&show_icons=true&locale=en&layout=compact" alt="jalal-haidar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jalal-khan&show_icons=true&locale=en" alt="jalal-khan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jalal-haidar&show_icons=true&locale=en" alt="jalal-haidar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalal-khan&" alt="jalal-khan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalal-haidar&" alt="jalal-haidar" /></p>
