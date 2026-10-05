@@ -1,6 +1,6 @@
 # Hi, I'm Jalal 👋
 
-**Full-stack TypeScript engineer who ships AI-powered products end to end.**
+**Full-stack TypeScript engineer who ships AI-powered products end to end.**<br>
 Next.js · Node.js/NestJS · Postgres/Supabase · LLM integrations
 
 Nearly 5 years building Node.js, Next.js and Postgres systems — from multi-tenant enterprise backends to my own multi-app platform with AI vision, a cross-app auth SDK, browser and VS Code extensions, and a Rust desktop app.
